@@ -2,7 +2,7 @@
 # 仅个人适用
 # 个人网站，直连
 USER-AGENT,zhoujie218646464
-DOMAIN,*.zhoujie218.top
-DOMAIN,*.dnwx.vip
+#DOMAIN,*.zhoujie218.top
+#DOMAIN,*.dnwx.vip
 DOMAIN-SUFFIX,zhoujie218.top
 DOMAIN-SUFFIX,dnwx.vip
