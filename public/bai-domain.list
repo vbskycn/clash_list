@@ -1,0 +1,8 @@
+# 我的直连域名白名单
+# 仅个人适用
+# 个人网站，直连
+USER-AGENT,zhoujie218646464
+DOMAIN,www.zhoujie218.top
+DOMAIN,www.dnwx.vip
+#DOMAIN-SUFFIX,zhoujie218.top
+#DOMAIN-SUFFIX,dnwx.vip
